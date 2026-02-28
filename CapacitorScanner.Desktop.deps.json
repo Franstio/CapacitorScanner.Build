@@ -13,6 +13,7 @@
           "Avalonia.LinuxFramebuffer": "11.1.0",
           "CapacitorScanner": "1.0.0",
           "CapacitorScanner.Api": "1.0.0",
+          "SQLitePCLRaw.bundle_e_sqlite3": "3.0.2",
           "runtimepack.Microsoft.NETCore.App.Runtime.linux-x64": "8.0.23",
           "runtimepack.Microsoft.AspNetCore.App.Runtime.linux-x64": "8.0.23"
         },
