@@ -1589,20 +1589,20 @@
           }
         }
       },
-      "Microsoft.Data.Sqlite/8.0.24": {
+      "Microsoft.Data.Sqlite/6.0.36": {
         "dependencies": {
-          "Microsoft.Data.Sqlite.Core": "8.0.24",
+          "Microsoft.Data.Sqlite.Core": "6.0.36",
           "SQLitePCLRaw.bundle_e_sqlite3": "3.0.2"
         }
       },
-      "Microsoft.Data.Sqlite.Core/8.0.24": {
+      "Microsoft.Data.Sqlite.Core/6.0.36": {
         "dependencies": {
           "SQLitePCLRaw.core": "3.0.2"
         },
         "runtime": {
-          "lib/net8.0/Microsoft.Data.Sqlite.dll": {
-            "assemblyVersion": "8.0.24.0",
-            "fileVersion": "8.0.2426.7202"
+          "lib/net6.0/Microsoft.Data.Sqlite.dll": {
+            "assemblyVersion": "6.0.36.0",
+            "fileVersion": "6.0.3624.51504"
           }
         }
       },
@@ -1871,7 +1871,7 @@
       "CapacitorScanner.Core/1.0.0": {
         "dependencies": {
           "Dapper": "2.1.66",
-          "Microsoft.Data.Sqlite": "8.0.24",
+          "Microsoft.Data.Sqlite": "6.0.36",
           "Microsoft.Extensions.Http": "8.0.1",
           "SQLitePCLRaw.bundle_e_sqlite3": "3.0.2"
         },
@@ -2089,19 +2089,19 @@
       "path": "microcom.runtime/0.11.0",
       "hashPath": "microcom.runtime.0.11.0.nupkg.sha512"
     },
-    "Microsoft.Data.Sqlite/8.0.24": {
+    "Microsoft.Data.Sqlite/6.0.36": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-EO3L64D3eJdtC5zTp/Y0JZnxi3u5vyiSxP2u4Cw6O+hMyUn6oiAcC2gPQHaEGr5quEe4eP51BSZoDUfiTWkHMw==",
-      "path": "microsoft.data.sqlite/8.0.24",
-      "hashPath": "microsoft.data.sqlite.8.0.24.nupkg.sha512"
+      "sha512": "sha512-Q39KIR/Ptu3TyxWOF5knIcu0vN2Ieod406Jss32bPi0J6XXCNgzNEVAzZ41gyfDAjLYyHlYNfqJWg9TVAE+2wg==",
+      "path": "microsoft.data.sqlite/6.0.36",
+      "hashPath": "microsoft.data.sqlite.6.0.36.nupkg.sha512"
     },
-    "Microsoft.Data.Sqlite.Core/8.0.24": {
+    "Microsoft.Data.Sqlite.Core/6.0.36": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-CPQyUH1L+BmXkp77JGs9WXJpmvKC49RiBv3LrmbRSxk554aBcssPfliI166fBG7CbMzbqAN9BCM/971EHu3GCQ==",
-      "path": "microsoft.data.sqlite.core/8.0.24",
-      "hashPath": "microsoft.data.sqlite.core.8.0.24.nupkg.sha512"
+      "sha512": "sha512-Vh74dyfNQJBc58lcOuhSKH39AuQlgGatAY4bOCZx7F+8/GO3Ba2G9G1swCVhBQkeTG2Ftew8R6iga02ATZiE6w==",
+      "path": "microsoft.data.sqlite.core/6.0.36",
+      "hashPath": "microsoft.data.sqlite.core.6.0.36.nupkg.sha512"
     },
     "Microsoft.Extensions.ApiDescription.Server/6.0.5": {
       "type": "package",
