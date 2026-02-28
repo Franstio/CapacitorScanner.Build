@@ -1872,7 +1872,8 @@
         "dependencies": {
           "Dapper": "2.1.66",
           "Microsoft.Data.Sqlite": "11.0.0-preview.1.26104.118",
-          "Microsoft.Extensions.Http": "8.0.1"
+          "Microsoft.Extensions.Http": "8.0.1",
+          "SQLitePCLRaw.bundle_e_sqlite3": "3.0.2"
         },
         "runtime": {
           "CapacitorScanner.Core.dll": {
