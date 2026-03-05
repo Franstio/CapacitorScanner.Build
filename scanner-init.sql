@@ -2,6 +2,7 @@
 id integer primary key autoincrement,
 transaction_date text,
 login_date text,
+send_date text,
 badgeno text,
 container text,
 bin text,
