@@ -27,7 +27,9 @@ CREATE table employee(
 id integer primary key autoincrement,
 employeename text,
 badgeno text,
-registerdate text
+registerdate text,
+dispose integer,
+collection integer
 );
 CREATE TABLE binhost(
 bin TEXT primary key,
@@ -62,4 +64,10 @@ CREATE TABLE IF NOT EXISTS containerbin (
     scrapgroup_name TEXT ,
     lastbadgeno TEXT ,
     activity TEXT 
+);
+
+CREATE TABLE IF NOT EXISTS appdata (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    property TEXT,
+    datavalue TEXT
 );
